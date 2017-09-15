@@ -1,7 +1,8 @@
 # Jasper-Module-Shutdown
 
-Jasper Shutdown Module for my [HAL9000 Raspberry PI Instructable](http://www.instructables.com/id/RaspberryPI-HAL9000/)
 Shutdown your RaspberryPI using your voice.
+
+Jasper Shutdown Module for my [HAL9000 Raspberry PI Instructable](http://www.instructables.com/id/RaspberryPI-HAL9000/)
 
 Written By: Djordje Ungar
 
